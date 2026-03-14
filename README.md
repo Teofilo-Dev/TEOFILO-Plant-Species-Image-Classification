@@ -1,5 +1,7 @@
 # 🌺 Laboratory Work 2-A: Philippine Plant Species Image Classification
 
+here is my pdf file : https://docs.google.com/document/d/1c35v52Xyc30GiCWO86oXzK7qpmy87RgW/edit?usp=sharing&ouid=103773365904240316083&rtpof=true&sd=true
+
 ## 📋 Project Overview
 
 This project is a comprehensive exercise in building and documenting a machine learning (ML) model from scratch using **Google Teachable Machine**. The goal is to create a functional image classifier capable of identifying **20 different but related plant species** (such as medicinal plants, herbs, ornamental flowers, and flowering plants).
